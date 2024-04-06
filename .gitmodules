@@ -1,3 +1,3 @@
-[submodule "lib/nelgau"]
-	path = lib/nelgau
-	url = git@github.com:nelgau/nelgau-kicad-libs.git
+[submodule "lib/nelgau-kicad-lib"]
+	path = lib/nelgau-kicad-lib
+	url = https://github.com/nelgau/nelgau-kicad-lib.git
