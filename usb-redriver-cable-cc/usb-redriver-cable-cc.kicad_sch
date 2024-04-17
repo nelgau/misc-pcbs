@@ -5435,7 +5435,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 238.76 64.77 90)
 			(effects
 				(font
@@ -6249,7 +6249,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 232.41 64.77 90)
 			(effects
 				(font
@@ -6522,7 +6522,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 238.76 87.63 90)
 			(effects
 				(font
@@ -7596,7 +7596,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 232.41 87.63 90)
 			(effects
 				(font
